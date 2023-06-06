@@ -1,7 +1,7 @@
 # Networking-Assignment-Release
 Welcome to the Networking Assignment! 
 
-This is one of the customized projects in IoT Summer Camp under WYSE in UIUC.
+This is one of the customized projects in IoT Summer Camp under WYSE atUIUC.
 
 Have you ever wondered how your application communicates with the server? 
 Have you ever heard of the OSI Model? 
