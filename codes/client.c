@@ -178,7 +178,7 @@ void write_to_server(char** cmds, verb operation, int socket_fd) {
 
 
         //write [binary data]
-        size_t num_write = 0;
+        ssize_t num_write = 0;
         char buffer[4096];
         while(num_write < count) {
             ssize_t size = count-num_write;
