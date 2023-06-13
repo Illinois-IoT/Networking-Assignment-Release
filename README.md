@@ -9,3 +9,4 @@ Join our networking project and learn more about them, as networking plays a cru
 In our networking project, we will talk about application-layer protocols in networking, for example, HTTP. 
 Also, you will learn to use C language and implement an application-layer protocol similar to HTTP but more simplified. 
 
+Reference: [UIUC CS 241/ 341](https://cs341.cs.illinois.edu)
